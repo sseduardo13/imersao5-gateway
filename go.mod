@@ -1,4 +1,4 @@
-module github.com/sseduardo13/imersao5-gateway
+module full_cycle
 
 go 1.17
 
